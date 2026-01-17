@@ -1,0 +1,8 @@
+# Path to train/val sets
+path: .
+train: YOLO_imgs_and_labels/train
+val: test_imgs/Single Faces/all_color
+# Classes
+nc: 1
+names:
+  0: face
