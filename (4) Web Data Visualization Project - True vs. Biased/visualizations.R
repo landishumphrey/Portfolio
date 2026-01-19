@@ -1,6 +1,6 @@
 library(tidyverse)
 
-data <- read_csv("~/DAT-230/Final Case Study/Electric_Vehicle_Population_Data.csv")
+data <- read_csv("./data.csv")
 
 # Overview of data set, used to check datatypes of features
 # Features do not have unreasonable typing, so no changes needed to be made there
